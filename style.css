@@ -1,0 +1,28 @@
+/*
+Theme Name: [theme name]
+Description: [description]
+*/
+
+@import url("base.css");
+
+/**************************************
+    General
+**************************************/
+.clear {
+	clear : both;	
+}
+
+.hide {
+	display: none;
+}
+
+a {
+	text-decoration : none;
+}
+
+body {
+}
+
+/**************************************
+    Blah blah
+**************************************/
