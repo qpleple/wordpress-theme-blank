@@ -1,4 +1,4 @@
-This is the simplest blank them you can make. It contains 4 templates :
+This is the simplest blank them you can have. It contains 4 templates :
 
  - `index.php`
  - `header.php`
